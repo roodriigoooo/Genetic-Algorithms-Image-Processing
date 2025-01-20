@@ -1,14 +1,10 @@
 # Genetic-Algorithms-Image-Processing
 This Python program processes images for genetic algorithm optimization. It includes functionalities for loading images, simplifying their color palette, calculating search space sizes, plotting data, and running a genetic algorithm to optimize image transformations based on simplified color schemes.
 
-**Must update code, repo structure and readme**
+**Must update code, repo structure and readme!!**
 
 ### Overview
 This program is designed for image processing and optimization using genetic algorithms. It offers a variety of functions to load and preprocess images, simplify their color schemes, and calculate the complexity of their color combinations. It also features an extensive genetic algorithm implementation to evolve images towards a target configuration, optimizing their color representation and structure.
-
-### Installation
-Ensure Python is installed along with the numpy, matplotlib, and PIL libraries, necessary for handling arrays, plotting, and image processing, respectively:
-pip install numpy matplotlib Pillow
 
 ### Image Loading and Processing:
 `load_image(file, size)`: Loads an image, resizes it, and checks if it's in PNG format, returning the image as a NumPy array and a format flag.
