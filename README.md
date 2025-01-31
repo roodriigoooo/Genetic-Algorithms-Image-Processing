@@ -1,10 +1,6 @@
 # Genetic-Algorithms-Image-Processing
 This Python program processes images for genetic algorithm optimization. It includes functionalities for loading images, simplifying their color palette, calculating search space sizes, plotting data, and running a genetic algorithm to optimize image transformations based on simplified color schemes.
 
-**Must update code, repo structure and readme!!**
-
-This program is designed for image processing and optimization using genetic algorithms. It offers a variety of functions to load and preprocess images, simplify their color schemes, and calculate the complexity of their color combinations. It also features an extensive genetic algorithm implementation to evolve images towards a target configuration, optimizing their color representation and structure.
-
 ### Usage
 Run the program to process images, compute their search spaces, and optimize them using genetic algorithms. Outputs include processed images, search space calculations, and visualizations of algorithmic performance.
 
